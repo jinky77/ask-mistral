@@ -1,5 +1,7 @@
 # Ask Mistral
-This repository provides a simple CLI interface to interact with [Mistral AI](https://mistral.ai/fr)'s flagship model Mistral Large through La Plateforme API.
+This repository provides a simple Node CLI interface to interact with [Mistral AI](https://mistral.ai/fr)'s flagship model Mistral Large through La Plateforme API.
+## Prerequisites
+Node.js (>= 18.20.8) and npm.
 ## Installation
 1. Create an account and fenerate an API key on [La Plateforme](https://console.mistral.ai/home).
 2. Clone repository
